@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Find me on twitter [@geongeorgek](https://twitter.com/geongeorgek)
+
 <!--
 **geongeorge/geongeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
